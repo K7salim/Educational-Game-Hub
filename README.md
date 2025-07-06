@@ -2,7 +2,7 @@
 A web-based platform that contains a variety of educational games. Its goal is to make learning more fun and interactive for students.
 
 📌 Features
-🧠 Math games, quizzes, and logic puzzles
+🧠 Math games
 
 🎨 Easy to customize using CSS
 
