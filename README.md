@@ -1,15 +1,16 @@
-# 🎮 Educational Game Hub
+🎮 Educational Game Hub
+A web-based platform that contains a variety of educational games. Its goal is to make learning more fun and interactive for students.
 
-Isang web-based platform na naglalaman ng iba't ibang educational games. Layunin nitong gawing mas masaya at interactive ang pagkatuto para sa mga estudyante.
+📌 Features
+🧠 Math games, quizzes, and logic puzzles
 
-## 📌 Mga Tampok
+🎨 Easy to customize using CSS
 
-- 🧠 Math games, quizzes, at logic puzzles
-- 🎨 Madaling i-customize gamit ang CSS
-- 🕹️ Pwedeng gamitin offline o online
-- 👦 Friendly para sa mga bata at estudyante
+🕹️ Can be used offline or online
 
-## 🗂️ Folder Structure
+👦 Kid-friendly and student-focused
+
+🗂️ Folder Structure
 
 Educational-Game-Hub/
 ├── index.html / index.php # Main homepage
