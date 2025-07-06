@@ -1,0 +1,296 @@
+ /* --- General Body + Font --- */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: radial-gradient(circle at center, #1a1a1a, #0f2027);
+  color: #00ffcc;
+  overflow-x: hidden;
+  user-select: none;
+}
+
+/* --- Flying Numbers Background --- */
+#background-fly {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: -1;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: rgba(0, 255, 204, 0.1);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 10px;
+  box-sizing: border-box;
+  background: transparent;
+}
+
+/* Flying numbers children */
+#background-fly div {
+  position: absolute;
+  font-weight: bold;
+  color: rgba(0, 255, 204, 0.1);
+  pointer-events: none;
+  transition: left 0.1s linear;
+  white-space: nowrap;
+}
+
+/* --- Header Styling --- */
+header {
+  width: 100%;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #00ffcc;
+  padding: 16px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  font-family: 'Orbitron', sans-serif;
+  box-sizing: border-box;
+}
+
+/* Header Title */
+.header-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 5px black;
+  letter-spacing: 1px;
+}
+
+/* Menu and User Info Container */
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center;
+  width: 100%;
+  max-width: 320px; /* optional: limit width */
+  text-align: center;
+  gap: 0.3rem;
+  position: relative;
+  font-size: 1.1rem;
+  cursor: default;
+}
+
+/* User Display Text */
+.user-display {
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* Bounce animation */
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-15px); }
+  60% { transform: translateY(-7px); }
+}
+
+.bounce {
+  display: inline-block;
+  animation: bounce 2s infinite;
+}
+
+/* Gear Icon */
+.gear {
+  cursor: pointer;
+  margin-top: 0.5rem;
+  stroke: #00ffcc;
+  transition: transform 0.3s ease;
+}
+
+.gear:hover {
+  transform: rotate(90deg);
+}
+
+/* Dropdown Menu */
+.dropdown {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: #222;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #00ffcc99;
+  padding: 0.5rem;
+  z-index: 100;
+  min-width: 180px;
+  border: 1px solid #00ffcc;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.dropdown a {
+  color: #00ffcc;
+  text-decoration: none;
+  display: block;
+  padding: 0.3rem 1rem;
+  transition: background 0.2s;
+}
+
+.dropdown a:hover {
+  background: #00ffcc22;
+}
+
+/* Dropdown visible state */
+.show {
+  display: block;
+}
+
+/* --- Buttons --- */
+.btn {
+  margin-top: 30px;
+  padding: 14px 28px;
+  background-color: #00ffcc;
+  color: #000;
+  border: none;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+  user-select: none;
+  display: block;
+  width: 100%;
+}
+
+.btn:hover {
+  background-color: #00ddb3;
+  transform: scale(1.05);
+}
+
+.exit-btn {
+  margin-top: 20px;
+  background-color: #ff4444;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s, width 0.3s;
+  padding: 10px 20px;
+  width: 25%;
+  user-select: none;
+  display: inline-block;
+}
+
+.exit-btn:hover {
+  background-color: #ff0000;
+  transform: scale(1.05);
+  width: 30%;
+}
+
+/* --- Container for Game Content --- */
+.container {
+  max-width: 900px;
+  margin: 40px auto 80px;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 16px;
+  box-shadow: 0 0 20px #00ffccaa;
+  position: relative;
+  z-index: 10;
+}
+
+/* Timer */
+.timer {
+  font-size: 1.3rem;
+  text-align: right;
+  margin-bottom: 20px;
+  color: #ffcc00;
+  font-weight: bold;
+  user-select: none;
+}
+
+/* Question */
+.question {
+  font-size: 1.3rem;
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.question input[type="text"] {
+  padding: 10px;
+  font-size: 1.1rem;
+  width: 120px;
+  border: none;
+  border-radius: 8px;
+  background: #001f1f;
+  color: #00ffcc;
+  text-align: center;
+  transition: box-shadow 0.3s;
+}
+
+.question input[type="text"]:focus {
+  outline: none;
+  box-shadow: 0 0 10px #00ffcc;
+}
+
+/* Badge Display */
+.badge-display {
+  margin-top: 40px;
+  background: #002626;
+  padding: 20px;
+  border-radius: 12px;
+  border: 2px solid #00ffcc;
+  display: none;
+  user-select: none;
+}
+
+.badge-display h3 {
+  margin-bottom: 12px;
+  color: #00ffcc;
+  font-size: 1.5rem;
+}
+
+.badge-list li {
+  padding: 8px 0;
+  font-size: 1.2rem;
+  border-bottom: 1px solid #00ffcc33;
+}
+
+/* --- Responsive Fixes --- */
+@media (max-width: 480px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 16px;
+  }
+
+  .header-title {
+    font-size: 1.4rem;
+    width: 100%;
+    text-align: center;
+  }
+
+  .menu {
+    width: 100%;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .user-display {
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    text-align: center;
+  }
+
+  /* Hide gear icon on small screens */
+  .gear {
+    display: none;
+  }
+}

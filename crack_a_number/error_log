@@ -1,0 +1,343 @@
+[01-Jun-2025 12:40:10 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:12 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:13 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:15 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:16 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:40:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:11 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:33 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:36 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:57 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:41:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:42:03 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:42:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:42:23 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:42:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:43:09 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:43:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:43:26 UTC] PHP Warning:  require(config.php): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:43:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/index.php on line 4
+[01-Jun-2025 12:54:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'WHERE' in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php:12
+Stack trace:
+#0 /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php on line 12
+[01-Jun-2025 12:54:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'WHERE' in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php:12
+Stack trace:
+#0 /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php on line 12
+[01-Jun-2025 12:55:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'WHERE' in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php:12
+Stack trace:
+#0 /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php on line 12
+[01-Jun-2025 12:55:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'WHERE' in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php:12
+Stack trace:
+#0 /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php on line 12
+[01-Jun-2025 12:57:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'WHERE' in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php:12
+Stack trace:
+#0 /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php on line 12
+[01-Jun-2025 12:57:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'WHERE' in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php:12
+Stack trace:
+#0 /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/login.php on line 12
+[08-Jun-2025 12:57:19 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 12:57:25 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 12:57:33 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 12:57:43 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 12:57:59 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 12:59:48 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 12:59:55 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:00:03 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:02:30 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:02:36 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:02:42 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:02:55 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:03:01 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:03:23 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:03:30 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:03:38 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:03:42 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:04:04 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:04:26 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:04:50 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:05:14 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:05:38 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:06:24 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:06:58 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:08:37 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:08:49 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:08:56 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:09:01 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:09:35 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:09:35 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:09:46 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:09:51 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:02 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:09 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:16 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:23 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:28 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:36 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:10:43 UTC] Insert error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 13:58:00 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:06 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:17 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:28 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:36 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:43 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:49 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:58:55 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:01 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:07 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:13 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:22 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:28 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:39 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:44 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 13:59:59 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:04 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:13 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:31 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:39 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:45 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:50 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:00:57 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:06 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:11 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:18 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:24 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:28 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:34 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:01:39 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:03:38 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:03:44 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:03:49 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:03:54 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:03:59 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:04:06 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:04:12 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:04:19 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:04:25 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:04:31 UTC] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'SELECT'
+[08-Jun-2025 14:16:13 UTC] Badge Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 14:20:53 UTC] Badge Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 14:43:31 UTC] Badge Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[08-Jun-2025 14:48:45 UTC] Badge Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crack_a_number.user_results' doesn't exist
+[09-Jun-2025 18:41:27 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 88
+[09-Jun-2025 18:43:35 UTC] PHP Warning:  Undefined variable $name in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 87
+[09-Jun-2025 18:43:35 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 135
+[09-Jun-2025 18:45:03 UTC] PHP Warning:  Undefined variable $name in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 194
+[09-Jun-2025 18:45:03 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 242
+[09-Jun-2025 18:46:12 UTC] PHP Warning:  Undefined variable $name in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 265
+[09-Jun-2025 18:46:12 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 313
+[09-Jun-2025 18:47:06 UTC] PHP Warning:  Undefined variable $name in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 265
+[09-Jun-2025 18:47:06 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 314
+[09-Jun-2025 18:49:27 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 18:50:14 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 211
+[09-Jun-2025 18:55:08 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 211
+[09-Jun-2025 19:01:22 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 191
+[09-Jun-2025 19:01:32 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 191
+[09-Jun-2025 19:08:40 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 251
+[09-Jun-2025 19:10:15 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 251
+[09-Jun-2025 19:10:24 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 251
+[09-Jun-2025 19:11:00 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 251
+[09-Jun-2025 19:11:03 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 251
+[09-Jun-2025 19:11:36 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 292
+[09-Jun-2025 19:13:22 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 290
+[09-Jun-2025 19:14:21 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 291
+[09-Jun-2025 19:14:39 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 291
+[09-Jun-2025 19:18:04 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 274
+[09-Jun-2025 19:19:51 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 273
+[09-Jun-2025 19:20:52 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 279
+[09-Jun-2025 19:21:46 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 264
+[09-Jun-2025 19:24:28 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 264
+[09-Jun-2025 19:25:11 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 264
+[09-Jun-2025 19:27:26 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 268
+[09-Jun-2025 19:28:04 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 268
+[09-Jun-2025 19:28:22 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 268
+[09-Jun-2025 19:28:37 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 268
+[09-Jun-2025 19:28:39 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 268
+[09-Jun-2025 19:31:44 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 276
+[09-Jun-2025 19:32:25 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 256
+[09-Jun-2025 19:32:53 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 253
+[09-Jun-2025 19:33:48 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 262
+[09-Jun-2025 19:34:03 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 262
+[09-Jun-2025 19:34:12 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 262
+[09-Jun-2025 19:34:37 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 262
+[09-Jun-2025 19:35:35 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 262
+[09-Jun-2025 19:35:57 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 286
+[09-Jun-2025 19:36:39 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 286
+[09-Jun-2025 19:36:43 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 286
+[09-Jun-2025 19:36:47 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 286
+[09-Jun-2025 19:37:07 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 311
+[09-Jun-2025 19:38:44 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 325
+[09-Jun-2025 19:40:04 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 325
+[09-Jun-2025 19:41:25 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 270
+[09-Jun-2025 19:41:41 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 270
+[09-Jun-2025 19:42:14 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 270
+[09-Jun-2025 19:42:32 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 270
+[09-Jun-2025 19:42:36 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 270
+[09-Jun-2025 19:43:19 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 209
+[09-Jun-2025 19:43:23 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 209
+[09-Jun-2025 19:43:30 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 209
+[09-Jun-2025 19:43:49 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 209
+[09-Jun-2025 19:44:22 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 209
+[09-Jun-2025 19:44:33 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 209
+[09-Jun-2025 19:44:57 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 19:45:00 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 19:45:29 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 19:46:47 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 19:47:11 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 19:50:57 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:08:58 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:09:26 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:10:28 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:10:30 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:10:38 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:11:42 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 210
+[09-Jun-2025 20:11:56 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 220
+[09-Jun-2025 20:11:58 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 220
+[09-Jun-2025 20:14:08 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:15:37 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:18:55 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:23:16 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:29 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:34 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:38 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:41 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:43 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:49 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:24:57 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:27:30 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[09-Jun-2025 20:27:59 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 02:40:22 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 03:32:00 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 18:31:42 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 18:31:58 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 18:32:10 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 18:34:33 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 18:39:07 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:39:10 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:39:23 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:39:31 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:39:38 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:39:40 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:39:45 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:00 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:01 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:01 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:02 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:02 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:03 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:04 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:40:23 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:41:09 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 224
+[10-Jun-2025 18:44:25 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 19:00:22 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 19:06:40 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[10-Jun-2025 19:09:55 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 88
+[10-Jun-2025 19:10:13 UTC] PHP Warning:  Undefined array key "email" in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/profile.php on line 257
+[25-Jun-2025 18:27:28 UTC] PHP Warning:  move_uploaded_file(uploads/685c3f90ee8af_john.png): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/update_profile.php on line 15
+[25-Jun-2025 18:27:28 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpyCojse&quot; to &quot;uploads/685c3f90ee8af_john.png&quot; in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/update_profile.php on line 15
+[25-Jun-2025 18:28:49 UTC] PHP Warning:  move_uploaded_file(uploads/685c3fe1ec4fc_john.png): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/update_profile.php on line 15
+[25-Jun-2025 18:28:49 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpPrL4Xn&quot; to &quot;uploads/685c3fe1ec4fc_john.png&quot; in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/update_profile.php on line 15
+[25-Jun-2025 18:30:03 UTC] PHP Warning:  move_uploaded_file(uploads/685c402b35bab_john.png): Failed to open stream: No such file or directory in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/update_profile.php on line 15
+[25-Jun-2025 18:30:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phprUcLcF&quot; to &quot;uploads/685c402b35bab_john.png&quot; in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/update_profile.php on line 15
+[25-Jun-2025 18:35:45 UTC] PHP Warning:  Undefined variable $user in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 665
+[25-Jun-2025 18:35:45 UTC] PHP Warning:  Trying to access array offset on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 665
+[25-Jun-2025 18:37:47 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:50 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:52 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:56 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:00 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:02 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:03 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:05 UTC] PHP Warning:  Undefined variable $pdo in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/welcome.php on line 18
+[25-Jun-2025 18:44:26 UTC] PHP Warning:  Undefined variable $profilePic in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/badges.php on line 443
+[25-Jun-2025 18:44:34 UTC] PHP Warning:  Undefined variable $profilePic in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/badges.php on line 443
+[25-Jun-2025 18:45:13 UTC] PHP Warning:  Undefined variable $profilePic in /home/bppbfno2jkjd/public_html/Collab_Game/crack_a_number/badges.php on line 448
