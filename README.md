@@ -12,6 +12,11 @@ A web-based platform that contains a variety of educational games. Its goal is t
 
 🗂️ Folder Structure
 
+## 🖼️ Game Previews
+
+![Desktop View](desktop.png)
+![Mobile View](mobile.png)
+
 Educational-Game-Hub/
 ├── index.html / index.php # Main homepage
 ├── games/ # Folder para sa mga laro
